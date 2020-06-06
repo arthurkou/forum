@@ -7,6 +7,7 @@ import org.hibernate.validator.constraints.Length;
 
 import br.com.alura.forum.model.Curso;
 import br.com.alura.forum.model.Topico;
+import br.com.alura.forum.repository.CursoRepository;
 
 public class TopicoForm {
 
